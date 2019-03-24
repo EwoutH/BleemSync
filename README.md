@@ -1,4 +1,4 @@
-# BleemSync
+# BleemSync [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/pathartl/BleemSync?branch=master&svg=true)](https://ci.appveyor.com/project/pathartl/BleemSync)
 BleemSync is a relatively safe way to add games to your PlayStation Classic.
 
 There is now a dedicated page for BleemSync. You can find it [here](https://modmyclassic.com/bleemsync/)
